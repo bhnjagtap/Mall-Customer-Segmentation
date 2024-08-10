@@ -1,3 +1,7 @@
+
+![Screenshot (1712)](https://github.com/user-attachments/assets/394a1187-ec7e-4114-a5e3-c28aff83cba2)
+
+
 # Customer Segmentation Analysis
 
 This project focuses on customer segmentation using a mall customer dataset. The goal is to group customers into distinct clusters based on their spending behavior and annual income, allowing for more targeted marketing strategies.
