@@ -1,6 +1,6 @@
 
-![Screenshot (1712)](https://github.com/user-attachments/assets/394a1187-ec7e-4114-a5e3-c28aff83cba2)
 
+![Screenshot (1713)](https://github.com/user-attachments/assets/2605c75d-0483-4043-aba4-7ac10019ff70)
 
 # Customer Segmentation Analysis
 
