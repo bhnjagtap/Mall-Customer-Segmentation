@@ -55,15 +55,8 @@ The primary objective of this project is to segment customers into distinct clus
 1. Clone the repository:
    ```bash
    git clone https://github.com/bhnjagtap/Customer-Segmentation-Analysis.git
+   
 2.Navigate to the project directory:
-      ```bash
+      
 
    cd Customer-Segmentation-Analysis
-3.Install the required dependencies:
-      ```bash
-
-   pip install -r requirements.txt
-4.Open the Jupyter Notebook:
-      ```bash
-
-   jupyter notebook CustomerSegmentation.ipynb
